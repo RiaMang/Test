@@ -1,2 +1,3 @@
 Here is some basic text. for first commit.
 Some changes for second commit.
+After a few commits and ignore.
